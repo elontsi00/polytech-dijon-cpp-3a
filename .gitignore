@@ -1,0 +1,8 @@
+# Ignorer les exécutables
+APP.exe
+*.exe
+*.o
+*.d
+
+# Ignorer les dossiers de configuration VS Code
+.vscode/
